@@ -1,0 +1,76 @@
+.wrapper {
+    background-image:url(Pics/burgerbackground.jpg);
+    background-position: center;
+    background-color:darkslategray;
+    background-position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 151.5em;
+    background-position: center;
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.aside-1 {
+    width: 28%;
+    margin-left: 15%;
+    height: 100%;
+    background-color: #1E1E1E;
+display: block;
+}
+
+.aside-2 {
+    font-size: 5em;
+    width: 31em;
+    padding-left: 4em
+
+}
+ul {
+    list-style: none;
+    color: #C8C8C8;
+    padding-top: 4em;
+}
+li {
+    display:inline;
+    padding: 1em;
+    
+}
+a {
+    text-decoration: none;
+    color: #C8C8C8;
+    
+}
+
+
+h1 {
+    color: #C8C8C8;
+    text-align:center;
+    font-size: 7em;
+    margin-top: 0px;
+    padding-top: 200px;
+    padding-bottom: 1.5em;   
+}
+hr {
+    display: block;
+    height: 0.9px;
+    border: 0;
+    border-top: 1px solid #C8C8C8;
+    margin: 1em 0;
+    padding: 0;
+    margin-left: 9.5em;
+    margin-right: 9.5em;
+}
+h2 {
+    color: #C8C8C8;
+    text-align:center;
+    font-size: 6em;
+    margin-top: 0px;
+    padding-top: 2em;
+}
+.aside-p {
+    font-size: 4em;
+    color: #C8C8C8;
+    margin-left: 2em;
+    margin-right:2em;
+    text-align: center;
+}
